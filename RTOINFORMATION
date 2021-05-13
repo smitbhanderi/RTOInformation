@@ -9,13 +9,13 @@
          "splash_ads":"false"
       },
       {
-         "app_id":"454258719354756",
-         "banner_id":"122160256531470_122160463198116",
-         "interstitial_id":"122160256531470_122161373198025",
-          "interstitial_id1":"122160256531470_122161666531329",
-          "interstitial_id2":"122160256531470_122161816531314",
-         "native_id":"122160256531470_122160826531413",
-         "native_banner_id":"122160256531470_122161193198043",
+         "app_id":"",
+         "banner_id":"",
+         "interstitial_id":"",
+          "interstitial_id1":"",
+          "interstitial_id2":"",
+         "native_id":"",
+         "native_banner_id":"",
          "rectangle_banner_id":"",
          "status":"true",
          "splash_ads":"false"
